@@ -1,0 +1,77 @@
+.travel--nav {
+  /* width: 550px; */
+  height: 55px;
+  background-color: #f55a5a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav--title {
+  font-weight: 600;
+  font-size: 14.46px;
+  line-height: 17px;
+  padding-left: 7px;
+  color: white;
+}
+.travel--cont {
+  margin-top: 45px;
+}
+.title--img {
+  height: 168px;
+  width: 125px;
+  border-radius: 5px;
+}
+.travel--sec {
+  margin-top: 35px;
+  padding-left: 13px;
+  display: flex;
+}
+.sec--content {
+  padding: 16px 0 0 10px;
+
+}
+.maps-icon-sec{
+  display: flex;
+  align-items: center;
+}
+.loca--icon{
+  width: 10px;
+  align-self: center;
+}
+.city--name {
+  font-weight: 400;
+  font-size: 0.9em;
+  padding-left: 4px;
+  color: #2b283a;
+}
+.location--n a {
+  color: #918e9b;
+  font-size: 12px;
+  font-weight: 400;
+  padding-left: 9px;
+}
+.title{
+ font-weight: 700;
+ margin: 0;
+ color:#2B283A;
+ font-size: 22px;
+ padding-top: 1px;
+ line-height: 30px;
+}
+.dates{
+ letter-spacing: 0.07em;
+ line-height: 11px;
+ padding-top: 2px;
+ font-size: 10px;
+ font-weight: 700;
+}
+.discrip{
+  margin: 0;
+  padding-top: -9px;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 16px;
+  overflow: hidden;
+  width: 223px;
+  height: 45px;
+}
